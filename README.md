@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Sakshi-kgp/DSA-question/tree/main/0057-insert-interval/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
