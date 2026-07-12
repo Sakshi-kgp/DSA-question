@@ -19,15 +19,18 @@
 | [0056-merge-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sakshi-kgp/DSA-question/tree/main/0057-insert-interval/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0056-merge-intervals/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
