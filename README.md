@@ -39,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Sakshi-kgp/DSA-question/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
