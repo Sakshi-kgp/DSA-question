@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sakshi-kgp/DSA-question/tree/main/0057-insert-interval/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Sorting
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0056-merge-intervals/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -48,9 +50,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->
