@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Sakshi-kgp/DSA-question/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Sorting
@@ -33,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Sakshi-kgp/DSA-question/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
