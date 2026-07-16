@@ -16,6 +16,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshi-kgp/DSA-question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sakshi-kgp/DSA-question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sakshi-kgp/DSA-question/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +37,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sakshi-kgp/DSA-question/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshi-kgp/DSA-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sakshi-kgp/DSA-question/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi-kgp/DSA-question/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +68,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshi-kgp/DSA-question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
