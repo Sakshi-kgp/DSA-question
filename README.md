@@ -12,6 +12,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/Sakshi-kgp/DSA-question/tree/main/0224-basic-calculator/) | Hard |
 | [2748-number-of-beautiful-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sakshi-kgp/DSA-question/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshi-kgp/DSA-question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -81,4 +82,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshi-kgp/DSA-question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/Sakshi-kgp/DSA-question/tree/main/0224-basic-calculator/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/Sakshi-kgp/DSA-question/tree/main/0224-basic-calculator/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/Sakshi-kgp/DSA-question/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
